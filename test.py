@@ -1,1 +1,3 @@
-print("Hello Git!!)"
+print("Hello Git!!")
+print('create new branch')
+print('lesson pull request')
